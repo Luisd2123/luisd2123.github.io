@@ -1,0 +1,39 @@
+body{
+    background-color: #3a637b;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #63849d;
+    width: 100%;
+}
+.nav ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.nav li{
+    float: right;
+}
+
+.nav a{
+    color: #ffefa5;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+.nav a:hover{
+    background-color: #3a637b;
+    color: #ffde00;
+}
+.home{
+    position: relative;
+}
+
+.home h1{
+
+}
